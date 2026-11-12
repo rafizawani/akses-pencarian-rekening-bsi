@@ -1,0 +1,8 @@
+{
+  "name": "Pencarian Rekening Bank BSU Himbara",
+  "description": "Portal pencarian data kepemilikan nomor rekening bank Himbara (BSI) dan status pembukaan rekening kolektif calon penerima BSU berdasarkan NIK atau Nama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
